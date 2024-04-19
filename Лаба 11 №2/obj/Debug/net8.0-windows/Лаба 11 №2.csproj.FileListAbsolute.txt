@@ -1,0 +1,16 @@
+C:\Users\total\Documents\ВКП\Лаба 11 №2\bin\Debug\net8.0-windows\Лаба 11 №2.exe
+C:\Users\total\Documents\ВКП\Лаба 11 №2\bin\Debug\net8.0-windows\Лаба 11 №2.deps.json
+C:\Users\total\Documents\ВКП\Лаба 11 №2\bin\Debug\net8.0-windows\Лаба 11 №2.runtimeconfig.json
+C:\Users\total\Documents\ВКП\Лаба 11 №2\bin\Debug\net8.0-windows\Лаба 11 №2.dll
+C:\Users\total\Documents\ВКП\Лаба 11 №2\bin\Debug\net8.0-windows\Лаба 11 №2.pdb
+C:\Users\total\Documents\ВКП\Лаба 11 №2\obj\Debug\net8.0-windows\Лаба 11 №2.csproj.GenerateResource.cache
+C:\Users\total\Documents\ВКП\Лаба 11 №2\obj\Debug\net8.0-windows\Лаба 11 №2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\total\Documents\ВКП\Лаба 11 №2\obj\Debug\net8.0-windows\Лаба 11 №2.AssemblyInfoInputs.cache
+C:\Users\total\Documents\ВКП\Лаба 11 №2\obj\Debug\net8.0-windows\Лаба 11 №2.AssemblyInfo.cs
+C:\Users\total\Documents\ВКП\Лаба 11 №2\obj\Debug\net8.0-windows\Лаба 11 №2.csproj.CoreCompileInputs.cache
+C:\Users\total\Documents\ВКП\Лаба 11 №2\obj\Debug\net8.0-windows\Лаба 11 №2.dll
+C:\Users\total\Documents\ВКП\Лаба 11 №2\obj\Debug\net8.0-windows\refint\Лаба 11 №2.dll
+C:\Users\total\Documents\ВКП\Лаба 11 №2\obj\Debug\net8.0-windows\Лаба 11 №2.pdb
+C:\Users\total\Documents\ВКП\Лаба 11 №2\obj\Debug\net8.0-windows\Лаба 11 №2.genruntimeconfig.cache
+C:\Users\total\Documents\ВКП\Лаба 11 №2\obj\Debug\net8.0-windows\ref\Лаба 11 №2.dll
+C:\Users\total\Documents\ВКП\Лаба 11 №2\obj\Debug\net8.0-windows\Лаба_11__2.Form1.resources
