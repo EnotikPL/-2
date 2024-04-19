@@ -1,0 +1,14 @@
+C:\Users\total\Documents\ВКП\лаба 8 №2\bin\Debug\net8.0\лаба 8 №2.exe
+C:\Users\total\Documents\ВКП\лаба 8 №2\bin\Debug\net8.0\лаба 8 №2.deps.json
+C:\Users\total\Documents\ВКП\лаба 8 №2\bin\Debug\net8.0\лаба 8 №2.runtimeconfig.json
+C:\Users\total\Documents\ВКП\лаба 8 №2\bin\Debug\net8.0\лаба 8 №2.dll
+C:\Users\total\Documents\ВКП\лаба 8 №2\bin\Debug\net8.0\лаба 8 №2.pdb
+C:\Users\total\Documents\ВКП\лаба 8 №2\obj\Debug\net8.0\лаба 8 №2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\total\Documents\ВКП\лаба 8 №2\obj\Debug\net8.0\лаба 8 №2.AssemblyInfoInputs.cache
+C:\Users\total\Documents\ВКП\лаба 8 №2\obj\Debug\net8.0\лаба 8 №2.AssemblyInfo.cs
+C:\Users\total\Documents\ВКП\лаба 8 №2\obj\Debug\net8.0\лаба 8 №2.csproj.CoreCompileInputs.cache
+C:\Users\total\Documents\ВКП\лаба 8 №2\obj\Debug\net8.0\лаба 8 №2.dll
+C:\Users\total\Documents\ВКП\лаба 8 №2\obj\Debug\net8.0\refint\лаба 8 №2.dll
+C:\Users\total\Documents\ВКП\лаба 8 №2\obj\Debug\net8.0\лаба 8 №2.pdb
+C:\Users\total\Documents\ВКП\лаба 8 №2\obj\Debug\net8.0\лаба 8 №2.genruntimeconfig.cache
+C:\Users\total\Documents\ВКП\лаба 8 №2\obj\Debug\net8.0\ref\лаба 8 №2.dll
